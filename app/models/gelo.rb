@@ -1,0 +1,2 @@
+class Gelo < ApplicationRecord
+end
